@@ -1,3 +1,4 @@
+##introduccion
 Este laboratorio consiste en la utilizacion de funciones para hacer mas comodos y entendibles los comandos utilizados en python.
 
 ## Objetivo
